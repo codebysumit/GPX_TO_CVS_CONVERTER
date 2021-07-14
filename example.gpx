@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<trk>
+		<name>example</name>
+		<trkseg>
+			<trkpt lat="15.377125" lon="90.921895">
+				<time>2021-04-22T20:38:59Z</time>
+				<ele>122.82650718972002</ele>
+				<speed>0.35052583</speed>
+			</trkpt>
+			<trkpt lat="15.377125" lon="90.921895">
+				<time>2021-04-22T20:38:59Z</time>
+				<ele>122.82650718972002</ele>
+				<speed>0.35052583</speed>
+			</trkpt>
+			<trkpt lat="15.377125" lon="90.921895">
+				<time>2021-04-22T20:38:59Z</time>
+				<ele>122.82650718972002</ele>
+				<speed>0.35052583</speed>
+			</trkpt>
+			<trkpt lat="15.36614777766667" lon="90.12944444444443">
+				<time>2021-04-22T20:39:08Z</time>
+				<ele>121.82656672184893</ele>
+				<speed>0.53325224</speed>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
